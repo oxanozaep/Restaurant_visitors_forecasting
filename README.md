@@ -20,7 +20,9 @@ Project Organization
     │   └── figures 
     │
     └── src
-
+        ├── data 
+        ├── models 
+        └── visualization
 
 
 --------
